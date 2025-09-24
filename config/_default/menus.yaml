@@ -1,0 +1,18 @@
+leftnav:
+- identifier: f2625a72-396c-91d8-44a3-6102432eb193
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 1d72692a-1f14-1c88-1b89-d298406dae48
+  name: Readings
+  pageRef: /pages/readings/
+  weight: 20
+- identifier: 02778fdc-58c6-ff2f-9822-3febdfa18cc7
+  name: Optional Additional Readings
+  pageRef: /pages/readings/optional-additional-readings
+  parent: 1d72692a-1f14-1c88-1b89-d298406dae48
+  weight: 30
+- identifier: 6c0dcc8a-c38d-538a-b831-bec30653be0b
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
