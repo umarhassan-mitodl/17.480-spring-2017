@@ -8,9 +8,9 @@ ocw_type: CourseSection
 title: Readings
 uid: 1d72692a-1f14-1c88-1b89-d298406dae48
 ---
-\[L\] = Lovell, Bernard. *Echoes of War: The Story of H*{{< sub "2" >}}*S Radar*. CRC Press, 1991. ISBN: 9780852743171. \[Preview with [Google Books](https://books.google.com/books?id=tnGo5BywLj8C&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[L\] = Lovell, Bernard. *Echoes of War: The Story of H*{{< sub "2" >}}*S Radar*. CRC Press, 1991. ISBN: 9780852743171. \[Preview with {{% resource_link "4308a2e9-e6b7-430d-9a54-c2bd36bccbe8" "Google Books" %}}\]
 
-\[P\] = Prange, Gordon W., with Donald M. Goldstein and Katherine V. Dillon. *At Dawn We Slept: The Untold Story of Pearl Harbor*. 60th anniversary ed. Penguin Books, 1982. ISBN: 9780140157345. \[Preview with [Google Books](https://books.google.com/books?id=V0OWBgAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[P\] = Prange, Gordon W., with Donald M. Goldstein and Katherine V. Dillon. *At Dawn We Slept: The Untold Story of Pearl Harbor*. 60th anniversary ed. Penguin Books, 1982. ISBN: 9780140157345. \[Preview with {{% resource_link "99a85008-4170-4a04-b1e5-20853cfeca9f" "Google Books" %}}\]
 
 \[PR\] = Price, Alfred. *Air Battle Central Europe*. Free Press, 1987. ISBN: 9780029254516. 
 
@@ -36,7 +36,7 @@ What is Military Doctrine? 
 
  Posen, Barry R. “The Importance of Military Doctrine.” Chapter 1 in *The Sources of Military Doctrine: France, Britain, and Germany Between the World Wars*. Cornell University Press, 1986. ISBN: 9780801494277. 
 
- Rosen, Stephen Peter. “Thinking about Military Innovation.” Chapter 1 in *Winning the Next War: Innovation and the Modern Military*. Cornell University Press, 1994, pp. 1–22. ISBN: 9780801481963. \[Preview with [Google Books](https://books.google.com/books?id=ncLRUf-q-XYC&pg=PA1=onepage#v=onepage&q&f=false)\]
+ Rosen, Stephen Peter. “Thinking about Military Innovation.” Chapter 1 in *Winning the Next War: Innovation and the Modern Military*. Cornell University Press, 1994, pp. 1–22. ISBN: 9780801481963. \[Preview with {{% resource_link "635431c6-33a6-4197-85e8-95fab93f01f7" "Google Books" %}}\]
 
  Greenwood, Ted. “Overview.” Chapter 1 in *Making the MIRV: A Study of Defense Decision Making*. University Press of American, 1988. ISBN: 9780819170774. 
 
@@ -48,7 +48,7 @@ What is Military Doctrine? 
 Armored Warfare
 {{< tdclose >}}{{< tdopen >}}
 
-Biddle, Stephen. “The Modern System.” Chapter 3 in *Military Power: Explaining Victory and Defeat in Modern Battle*. Princeton University Press, 2006. ISBN: 9780691128023. \[Preview with [Google Books](https://books.google.com/books?id=UjRY3kti18UC&pg=PA28=onepage#v=onepage&q&f=false)\] 
+Biddle, Stephen. “The Modern System.” Chapter 3 in *Military Power: Explaining Victory and Defeat in Modern Battle*. Princeton University Press, 2006. ISBN: 9780691128023. \[Preview with {{% resource_link "aa1cf85d-cfc9-4c73-996a-9e88c68f80bd" "Google Books" %}}\] 
 
 ———. “The Modern System, Preponderance, and Changing Technology.” Chapter 4 in *Military Power: Explaining Victory and Defeat in Modern Battle*. Princeton University Press, 2006. ISBN: 9780691128023.
 
@@ -84,7 +84,7 @@ Naval Warfare (World War II)
 
 \[R\] Chapter 6: Battle of the Fast Carriers.
 
-\[R\] Chapter 10: Changing Missions: Peripheral War. \[Preview with [Google Books](https://books.google.com/books?id=_E8xCgAAQBAJ&pg=PA320=onepage#v=onepage&q&f=false)\]
+\[R\] Chapter 10: Changing Missions: Peripheral War. \[Preview with {{% resource_link "9f5a4ae7-5b1b-4529-b2eb-2f63097dcfbb" "Google Books" %}}\]
 
  Moulton, J. L. *A Study of Warfare in 3 Dimensions: The Norwegian Campaign of 1940*. Ohio University Press, 1968, pp. 19–34, and 263–98. ASIN:B004G8BJF2.
 
@@ -110,7 +110,7 @@ Naval Warfare (Cold War)
 Air to Air 
 {{< tdclose >}}{{< tdopen >}}
 
-Carpenter, P. Mason. “[Joint Operations in the Gulf War: An Allison Analysis](https://www.globalsecurity.org/military/library/report/1994/carpente.htm).” Master's thesis, Air University, 1995, pp. 11–20.
+Carpenter, P. Mason. “{{% resource_link "aa48d781-523e-49a7-9145-5e96bda71a6c" "Joint Operations in the Gulf War: An Allison Analysis" %}}.” Master's thesis, Air University, 1995, pp. 11–20.
 
  Cohen, Eliot. *Gulf War Air Power Survey, Vol. II: Operations and Effects and Effectiveness*. Department of the Air Force, 1993, pp. 112–13, and 119–23. ISBN: 9780160429101. 
 
@@ -130,13 +130,13 @@ Anderegg, C. R. “The Eagle.” Chapter 15 in *Sierra Hotel: Flying Air Force F
 
  ———. “The Crucial Choice of PRF.” Chapter 24 in *Introduction to Airborne Radar*. 2nd ed. SciTech Publishing Inc., 1998. ISBN: 9781891121012. 
 
-“Radar Principles.” Chapter 5 in [*Electronic Warfare Fundamentals*](https://www.scribd.com/document/237172223/23724318-Electronic-Warfare-Fundamentals). November 2000.
+“Radar Principles.” Chapter 5 in {{% resource_link "503567e1-aa05-458b-80fe-c742ee455f47" "*Electronic Warfare Fundamentals*" %}}. November 2000.
 
 Robinson, Jr., Clarence A. “Fighter, Missile Gains Pressed.” *Aviation Week & Space Technology* (April 4, 1977): 12.
 
 ———. “Aerial Combat Test to Advance.” *Aviation Week & Space Technology* (April 25, 1977): 28.
 
- Watts, Barry D. “’Situation Awareness’ in Air-to-Air Combat and Friction.” Chapter 9 in *Clausewitzian Friction and Future War*. CreateSpace Independent Publishing Platform, 2012. ISBN: 9781478215318. \[Preview with [Google Books](https://books.google.com/books?id=EclFh0oTx-8C&pg=PA91=onepage#v=onepage&q&f=false)\].
+ Watts, Barry D. “’Situation Awareness’ in Air-to-Air Combat and Friction.” Chapter 9 in *Clausewitzian Friction and Future War*. CreateSpace Independent Publishing Platform, 2012. ISBN: 9781478215318. \[Preview with {{% resource_link "79d67fcc-85a5-4cfc-bd9b-3839a143174f" "Google Books" %}}\].
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -158,13 +158,13 @@ Defense Suppression 
 
 \[PR\] Chapter 13: The Wild Weasels.
 
-“Radar Warning Receiver (RWR) Basic Operations and Geolocation Techniques.” Chapter 17 in [*Electronic Warfare Fundamentals*](https://www.scribd.com/document/237172223/23724318-Electronic-Warfare-Fundamentals), pp. 17-15–17-20. November 2000.
+“Radar Warning Receiver (RWR) Basic Operations and Geolocation Techniques.” Chapter 17 in {{% resource_link "503567e1-aa05-458b-80fe-c742ee455f47" "*Electronic Warfare Fundamentals*" %}}, pp. 17-15–17-20. November 2000.
 
 Fulghum, David A., and Robert Wall. “Data Link, EW Problems Pinpointed by Pentagon.” *Aviation Week & Space Technology* 151, no. 10 (1999): 87.
 
 Isby, David C. “Targeting Pod Upgrade for F-16s.” *Air Force News* 3, no. 18 (1999): 18.
 
-Tirpak, John A. [“Dealing With Air Defenses.” (PDF)](http://www.airforcemag.com/MagazineArchive/Documents/1999/November%201999/1199airdefense.pdf) *Air Force Magazine*, November 1999.
+Tirpak, John A. {{% resource_link "b329985e-3247-4283-ab33-44cc8978bd18" "“Dealing With Air Defenses.” (PDF)" %}} *Air Force Magazine*, November 1999.
 
 Bender, Bryan. “USAF to Expand Anti-radar Attack Capability.” *Jane’s Defence Weekly* 32, no. 24 (1999): 10–11.
 
@@ -190,7 +190,7 @@ Wall, Robert. “Netted Approach to Kill SAMs.” *Aviation Week & Space Technol
 Precision Strike 
 {{< tdclose >}}{{< tdopen >}}
 
- Blackwelder, Donald I. *The Long Road to Desert Storm and Beyond: The Development of Precision Guided Bombs*. BiblioScholar, 2012, 1993, pp. 1–40. ISBN: 9781249327776. \[Preview with [Google Books](https://books.google.com/books?id=sD1wCwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+ Blackwelder, Donald I. *The Long Road to Desert Storm and Beyond: The Development of Precision Guided Bombs*. BiblioScholar, 2012, 1993, pp. 1–40. ISBN: 9781249327776. \[Preview with {{% resource_link "2f80df95-5761-4936-ab0f-b37656ebfa97" "Google Books" %}}\]
 
  Anderegg, C. R. “Mud Beaters.” Chapter 12 in *Sierra Hotel: Flying Air Force Fighters in the Decade After Vietnam*. Government Reprints Press, 2001. ISBN: 9781931839044. 
 
@@ -202,7 +202,7 @@ Precision Strike 
 
  Cohen, Eliot. *Gulf War Air Power Survey, Vol. IV: Weapons, Tactics, and Training*. U.S. Government Printing Office, 1993, pp. 85–88, 121–41, and 252–95. ISBN: 9780160429279. 
 
-Cahlink, George. “[Birth of a Bomb](http://www.govexec.com/magazine/2003/08/birth-of-a-bomb/14694/).” *Government Executive Magazine*, August 1, 2003.
+Cahlink, George. “{{% resource_link "63f92385-69bc-4c67-81ac-f05c8f89a08a" "Birth of a Bomb" %}}.” *Government Executive Magazine*, August 1, 2003.
 
 Brown, Malina. “Navy Zeros JDAM HART Account to Pay for Small Diameter Bomb.” *Inside the Navy*, February 9, 2004.
 
@@ -218,7 +218,7 @@ Strategic Mobility 
 
  Matthews, James K., and Cora J. Holt. “Sealift.” Chapter 4 in *So Many, So Much, So Far, So Fast: United States Transportation Command and Strategic Deployment for Operation Desert Shield / Desert Storm*. Office of the Chairman of the Joints Chiefs of Staff and United States Transportation Command, 1996. ISBN: 9780160591877. 
 
- Vick, Alan, David Orletsky, Bruce Pirnie, et al. “Introduction.” Chapter 1 in *The Stryker Brigade Combat Team: Rethinking Strategic Responsiveness and Assessing Deployment Options*. RAND Corporation, 2003. ISBN: 9780833032683. \[Preview with [Google Books](https://books.google.com/books?id=RDO3hoveK6EC&pg=PA1=onepage#v=onepage&q&f=false)\]
+ Vick, Alan, David Orletsky, Bruce Pirnie, et al. “Introduction.” Chapter 1 in *The Stryker Brigade Combat Team: Rethinking Strategic Responsiveness and Assessing Deployment Options*. RAND Corporation, 2003. ISBN: 9780833032683. \[Preview with {{% resource_link "ac471a6c-040a-4c9d-9006-1cef05ee853d" "Google Books" %}}\]
 
  ———. “Deployment the SBCTs.” Chapter 2 in *The Stryker Brigade Combat Team: Rethinking Strategic Responsiveness and Assessing Deployment Options*. RAND Corporation, 2003. ISBN: 9780833032683.
 
@@ -234,29 +234,29 @@ ISR Politics 
 
  Haines, Gerald. “The National Reconnaissance: Its Origins, Creations, and Early Years.” Chapter 6 in *Eye in the Sky: The Story of the CORONA Spy Satellites*. Edited by Dwayne A. Day, John M. Logsdon, and Brian Latell. Smithsonian Books, 1999. ISBN: 9781560987734.
 
-Wheelon, Albert D. “[CORONA: The First Reconnaissance Satellites](http://physicstoday.scitation.org/doi/abs/10.1063/1.881677).” *Physics Today* 50, no. 2 (1997): 24–30. 
+Wheelon, Albert D. “{{% resource_link "ebd5c72e-6976-4158-84d0-71b6e95b3b86" "CORONA: The First Reconnaissance Satellites" %}}.” *Physics Today* 50, no. 2 (1997): 24–30. 
 
  Lewis, Jonathan. “Washington Troubles.” Chapter 16 in *Spy Capitalism: ITEK and the CIA*. Yale University Press, 2002. ISBN: 9780300091922.
 
- ———. “Fulcrum.” Chapter 17 in *Spy Capitalism: ITEK and the CIA*. Yale University Press, 2002. ISBN: 9780300091922. \[Preview with [Google Books](https://books.google.com/books?id=rURdlJJgYcoC&pg=PA240=onepage#v=onepage&q&f=false)\]
+ ———. “Fulcrum.” Chapter 17 in *Spy Capitalism: ITEK and the CIA*. Yale University Press, 2002. ISBN: 9780300091922. \[Preview with {{% resource_link "8bc44530-d478-411b-9966-0613e801e0ee" "Google Books" %}}\]
 
-[Department of Defense Briefing on Space Transformation](https://fas.org/irp/nro/dod020702.html), Presenter: Under Secretary of the Air Force Peter Teets, February 7, 2002.
+{{% resource_link "201e316b-0fe7-4849-ad27-0de0c5d97d46" "Department of Defense Briefing on Space Transformation" %}}, Presenter: Under Secretary of the Air Force Peter Teets, February 7, 2002.
 
 Erhard, Lt. Col. Thomas. "UAVs in the United States Armed Forces: A Comparative Study of Weapon System Innovation." PhD Thesis, Johns Hopkins University, 2000, pp. 103–214, 403–567,636, 639–51.
 
- Newcome, Lawrence. “Endeavoring to Endure.” Chapter 13 in *Unmanned Aviation: A Brief History of Aerial Vehicles*. American Institute of Aeronautics and Astronautics, Inc., 2004. ISBN: 9781563476440. \[Preview with [Google Books](https://books.google.com/books?id=HH_VZID81rkC&pg=PA101=onepage#v=onepage&q&f=false)\]
+ Newcome, Lawrence. “Endeavoring to Endure.” Chapter 13 in *Unmanned Aviation: A Brief History of Aerial Vehicles*. American Institute of Aeronautics and Astronautics, Inc., 2004. ISBN: 9781563476440. \[Preview with {{% resource_link "1473fcac-1afc-4304-88fe-396e3bb2a530" "Google Books" %}}\]
 
 Fulghum, David. “NRO Wants UAVs.” *Aviation Week & Space Technology* (September 22, 2003): 54–55.
 
-“[Charting a Technical Revolution: An Interview with Former DDS&T Albert Wheelon (U)](https://archive.org/stream/CIA-Studies-In-Intelligence-Declassified/DOC_0000863247_djvu.txt).” *Studies in Intelligence* 45, no. 2 (Summer 2001): 31–43.
+“{{% resource_link "797c21f5-7854-4c94-9ba9-479796eba1ef" "Charting a Technical Revolution: An Interview with Former DDS&T Albert Wheelon (U)" %}}.” *Studies in Intelligence* 45, no. 2 (Summer 2001): 31–43.
 
-Richelson, Jeffrey T. “[Eavesdroppers in Disguise](http://www.airforcemag.com/MagazineArchive/Pages/2012/August%202012/0812Eavesdroppers.aspx).” *Air Force Magazine*, August 2012.
+Richelson, Jeffrey T. “{{% resource_link "55a59a41-9db6-41a9-88b7-0ab2bbac445e" "Eavesdroppers in Disguise" %}}.” *Air Force Magazine*, August 2012.
 
-Day, Dwayne A. “[Radar Love: The Tortured History of American Space Radar Programs](http://www.thespacereview.com/article/790/1).” *The* *Space Review*, January 22, 2007.
+Day, Dwayne A. “{{% resource_link "8f27adb8-ba14-4cc5-98b9-93318fa64e3b" "Radar Love: The Tortured History of American Space Radar Programs" %}}.” *The* *Space Review*, January 22, 2007.
 
 Kohler, Robert. “One Officer’s Perspective: The Decline of the National Reconnaissance Office.” *Studies in Intelligence* 46, no. 2 (2002).
 
-Fitzgerald, Dennis. [“Commentary on ‘The Decline of the National Reconnaissance Office’.” (PDF)](https://www.cia.gov/resources/csi/static/Commentary-on-The-Decline.pdf) *Studies in Intelligence* 46, no. 2 (2002).
+Fitzgerald, Dennis. {{% resource_link "e8d3b818-c75b-4350-8b56-ba7727561c79" "“Commentary on ‘The Decline of the National Reconnaissance Office’.” (PDF)" %}} *Studies in Intelligence* 46, no. 2 (2002).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -264,9 +264,9 @@ Fitzgerald, Dennis. [“Commentary on ‘The Decline of the National Reconnaissa
 ISR Sensors and Networks
 {{< tdclose >}}{{< tdopen >}}
 
-Kaspar, Lt. Col. Beth M. “[Advanced Tactical Targeting Technology](https://www.yumpu.com/en/document/view/16948491/advanced-tactical-targeting-technology-at3-advanced-darpa).” DARPATech 99 presentation.
+Kaspar, Lt. Col. Beth M. “{{% resource_link "1cf69e22-8d44-445e-84ce-243c0830ca5a" "Advanced Tactical Targeting Technology" %}}.” DARPATech 99 presentation.
 
-———. [“Advanced Tactical Targeting Technology (AT3).” slides (PDF - 1.04MB)](https://www.yumpu.com/en/document/view/16948491/advanced-tactical-targeting-technology-at3-advanced-darpa) (See slide 5 of 17.)
+———. {{% resource_link "1cf69e22-8d44-445e-84ce-243c0830ca5a" "“Advanced Tactical Targeting Technology (AT3).” slides (PDF - 1.04MB)" %}} (See slide 5 of 17.)
 
 “Anti-Radar Weapon Development Pushed.” *Aviation Week & Space Technology* (January 27, 1975): 107.
 
@@ -276,13 +276,13 @@ Klass, Philip. “Air Force to Test Enemy Radar Locator.” *Aviation Week & Spa
 
 “Lockheed Awarded Fund to Continue PLSS Testing.” *Aviation Week & Space Technology* (September 14, 1987): 89.
 
-Andronov, Major A. “[The U.S. Navy’s ‘White Cloud’ Spaceborne ELINT System](https://www.globalsecurity.org/space/library/report/1993/noss_andronov.htm).” *Foreign Military Review* no. 7 (1993): 57–60.
+Andronov, Major A. “{{% resource_link "1d658c27-4057-4c29-b214-86dfadb841b9" "The U.S. Navy’s ‘White Cloud’ Spaceborne ELINT System" %}}.” *Foreign Military Review* no. 7 (1993): 57–60.
 
-———. “[American Geosynchronous SIGINT Satellites](https://fas.org/spp/military/program/sigint/androart.htm).” *Foreign Military Review* no. 12 (1993): 37–43.
+———. “{{% resource_link "f4bcf120-907e-4842-a340-988a9fa29c37" "American Geosynchronous SIGINT Satellites" %}}.” *Foreign Military Review* no. 12 (1993): 37–43.
 
-“[Precision SIGINT Targeting System (PSTS)](https://www.globalsecurity.org/intell/systems/psts.htm).”
+“{{% resource_link "b1b9e1bd-01a2-4aba-abfb-b821fd70dfef" "Precision SIGINT Targeting System (PSTS)" %}}.”
 
-Jette, Lt. Col. Bruce D., Ph.D. [“Review of the Conclusion and Model of the SIGINT Mix Study.” (PDF)](https://fas.org/irp/program/collect/SIGINTWP.pdf) March 26, 1996.
+Jette, Lt. Col. Bruce D., Ph.D. {{% resource_link "2b538f37-69d6-40df-8802-4a39c2e61f0f" "“Review of the Conclusion and Model of the SIGINT Mix Study.” (PDF)" %}} March 26, 1996.
 
 Fulghum, David A. “It Takes a Network to Beat a Network.” *Aviation Week & Space Technology* 157, no. 20 (November 11, 2002): 28.
 
@@ -308,12 +308,12 @@ Tactical Mobility
 
  English, John A. “Beyond Deterrence: The Contemporary Requirement for Infantry.” Chapter 8 in *On Infantry*. Praeger, 1984. ISBN: 9780030014093. 
 
-Karagosian, John, and Christopher Coglianese. “[Training Notes: Kings of the Road: Heavy and Light Forces in MOUT](https://www.thefreelibrary.com/Kings+of+the+road%3A+heavy+and+light+forces+in+MOUT.-a0116585280).” *Infantry* 93, no. 1 (January – February 2004): 40–44.
+Karagosian, John, and Christopher Coglianese. “{{% resource_link "29085a09-c7c4-42aa-86cf-d9339dc3214e" "Training Notes: Kings of the Road: Heavy and Light Forces in MOUT" %}}.” *Infantry* 93, no. 1 (January – February 2004): 40–44.
 
-“[Urban Lessons Learned: Operation Peace for Galilee](http://www.freerepublic.com/focus/f-news/740602/posts).” *Urban Operations Journal* (August 28, 2002).
+“{{% resource_link "8768746b-e54d-4a9c-81d7-c7fd83552c32" "Urban Lessons Learned: Operation Peace for Galilee" %}}.” *Urban Operations Journal* (August 28, 2002).
 
  Zahn, Brian R. *The Future Combat System: Minimizing Risk While Maximizing Capability*. PN, 2000. ASIN: B00JBMM5TW.
 
- Gelbart, Marsh. *Modern Israeli Tanks and Infantry Carriers 1985*–*2004*. Osprey Publishing, 2004. ISBN: 9781841765792. \[Preview with [Google Books](https://books.google.com/books?id=nozvCwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+ Gelbart, Marsh. *Modern Israeli Tanks and Infantry Carriers 1985*–*2004*. Osprey Publishing, 2004. ISBN: 9781841765792. \[Preview with {{% resource_link "48511a64-6402-4263-a573-264b52b48359" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
